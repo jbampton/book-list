@@ -24,7 +24,7 @@
 
 ### Terry Brooks
 
-- The Druid of Shannara - Volumne Two of the Heritage of Shannara
+- The Druid of Shannara - Volume Two of the Heritage of Shannara
 
 ### Sara Douglass
 
