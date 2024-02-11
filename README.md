@@ -34,10 +34,5 @@
 
 #### Deverry Cycle
 
-##### Deverry
-
-- Daggerspell
-
-##### The Dragon Mage
-
+- Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
