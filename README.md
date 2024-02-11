@@ -22,6 +22,10 @@
 
 ## Fantasy
 
+### Terry Brooks
+
+- The Druid of Shannara - Volumne Two of the Heritage of Shannara
+
 ### Sara Douglass
 
 - Battleaxe - Book one of The Axis Trilogy
