@@ -1,17 +1,17 @@
 # Book List
 
-## Sara Douglass
+### Sara Douglass
 
 - Battleaxe - Book one of The Axis Trilogy
 
-## Katherine Kerr
+### Katherine Kerr
 
-### Deverry Cycle
+#### Deverry Cycle
 
-#### Deverry
+##### Deverry
 
 - Daggerspell
 
-#### The Dragon Mage
+##### The Dragon Mage
 
 - The Gold Falcon - Book Four of The Dragon Mage
