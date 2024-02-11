@@ -16,6 +16,10 @@
 
 - Data Analysis - Introductory Methods in Context, 2nd Edition
 
+### K.A. Stroud with Additions by Dexter J. Booth
+
+- Engineering Mathematics, Fifth Edition
+
 ## Fantasy
 
 ### Sara Douglass
