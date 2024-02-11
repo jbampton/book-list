@@ -1,5 +1,11 @@
 # Book List
 
+## Chess
+
+### Anatoli Vaisser
+
+- Beating the King's Indian and Benoni
+
 ## Mathematics
 
 ### Helen L. MacGillivray
