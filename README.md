@@ -1,5 +1,13 @@
 # Book List
 
-### Katherine Kerr
+## Katherine Kerr
 
-The Gold Falcon - Book Four of The Dragon Mage
+### Deverry Cycle
+
+#### Deverry
+
+- Daggerspell
+
+#### The Dragon Mage
+
+- The Gold Falcon - Book Four of The Dragon Mage
