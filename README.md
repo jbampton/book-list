@@ -2,6 +2,10 @@
 
 ## Chess
 
+### Kevin Bordi and Samy Robin
+
+- Chess From Beginner to Winner! Master the Game from the Opening Move to Checkmate
+
 ### Anatoli Vaisser
 
 - Beating the King's Indian and Benoni
