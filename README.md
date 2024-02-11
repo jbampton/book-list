@@ -30,6 +30,10 @@
 
 - Battleaxe - Book one of The Axis Trilogy
 
+### Robert Jordan and Brandon Sanderson
+
+- A Memory of Light - Book 14 of The Wheel of Time
+
 ### Katherine Kerr
 
 #### Deverry Cycle
