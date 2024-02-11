@@ -1,8 +1,12 @@
 # Book List
 
+## Mathematics
+
 ### Helen L. MacGillivray
 
 - Data Analysis - Introductory Methods in Context, 2nd Edition
+
+## Fantasy
 
 ### Sara Douglass
 
