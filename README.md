@@ -14,6 +14,12 @@
 
 - Beating the King's Indian and Benoni
 
+## Go
+
+### Kaoru Iwamoto
+
+- GO for Beginners
+
 ## Mathematics
 
 ### Helen L. MacGillivray
