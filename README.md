@@ -10,6 +10,10 @@
 
 - Chess Openings for Dummies
 
+### James Eade and Al Lawrence
+
+- Chess Player's Bible
+
 ### Anatoli Vaisser
 
 - Beating the King's Indian and Benoni
