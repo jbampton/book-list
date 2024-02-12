@@ -43,3 +43,7 @@
 
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
+
+### Tad Williams
+
+- Sea of Silver Light - Book Four Otherland
