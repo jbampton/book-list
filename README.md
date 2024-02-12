@@ -56,6 +56,7 @@
 ### Katherine Kerr
 
 - Daggerspell - Book One Deverry
+- A Time of Justice - Book Four of The Westlands
 - The Gold Falcon - Book Four of The Dragon Mage
 - Polar City Blues
 
