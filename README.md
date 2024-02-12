@@ -36,6 +36,7 @@
 
 ### Robert Jordan and Brandon Sanderson
 
+- The Dragon Reborn - Book 3 of The Wheel of Time
 - A Memory of Light - Book 14 of The Wheel of Time
 
 ### Katherine Kerr
