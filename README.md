@@ -40,3 +40,10 @@
 
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
+
+## Science Fiction
+
+### Greg Bear
+
+- Slant
+
