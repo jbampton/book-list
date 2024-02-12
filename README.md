@@ -50,6 +50,7 @@
 
 ### Robert Jordan and Brandon Sanderson
 
+- The Great Hunt - Book 2 of The Wheel of Time
 - The Dragon Reborn - Book 3 of The Wheel of Time
 - A Memory of Light - Book 14 of The Wheel of Time
 
