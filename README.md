@@ -6,6 +6,10 @@
 
 - Chess From Beginner to Winner! Master the Game from the Opening Move to Checkmate
 
+### James Eade
+
+- Chess Openings for Dummies
+
 ### Anatoli Vaisser
 
 - Beating the King's Indian and Benoni
