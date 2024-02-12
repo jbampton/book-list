@@ -20,7 +20,11 @@
 
 - Engineering Mathematics, Fifth Edition
 
-## Fantasy
+## Fantasy and Science Fiction
+
+### Greg Bear
+
+- Slant
 
 ### Terry Brooks
 
@@ -40,10 +44,3 @@
 
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
-
-## Science Fiction
-
-### Greg Bear
-
-- Slant
-
