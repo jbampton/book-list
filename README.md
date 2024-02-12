@@ -57,6 +57,7 @@
 
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
+- Polar City Blues
 
 ### George R.R. Martin
 
