@@ -52,6 +52,10 @@
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
 
+### George R.R. Martin
+
+- A Storm of Swords 2: Blood and Gold
+
 ### Tad Williams
 
 - Sea of Silver Light - Book Four Otherland
