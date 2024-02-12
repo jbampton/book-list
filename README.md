@@ -40,7 +40,5 @@
 
 ### Katherine Kerr
 
-#### Deverry Cycle
-
 - Daggerspell - Book One Deverry
 - The Gold Falcon - Book Four of The Dragon Mage
