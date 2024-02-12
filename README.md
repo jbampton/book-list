@@ -38,6 +38,10 @@
 
 - Battleaxe - Book one of The Axis Trilogy
 
+### David Gemmell
+
+- Bloodstone
+
 ### Robert Jordan and Brandon Sanderson
 
 - The Dragon Reborn - Book 3 of The Wheel of Time
