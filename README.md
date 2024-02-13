@@ -36,7 +36,7 @@ British PhD Mathematician and Chess Grandmaster John Nunn has created a wonderfu
 
 #### Pillsbury The Extraordinary
 
-A story about `Harry Nelson Pillsbury` one of the lessor known American Chess Masters who was born in 1872. The book is divided into two parts with the first part the biography written by Soltis and the second part the Games written by Smith. This classic Soltis and Smith mashup works well with a lot of games having diagrams every three moves. Published by Chess Digest, Inc. Small book, 144 pages, 1990 edition.
+A story about `Harry Nelson Pillsbury` one of the lessor known American Chess Masters who was born in 1872. The book is divided into two parts with the first part the biography written by Soltis and the second part the Games written by Smith. This classic Soltis and Smith mashup works well with a lot of games having diagrams every three moves. In part one there are seven chapters and in part two there are thirty games. Published by Chess Digest, Inc. Small book, 144 pages, 1990 edition.
 
 ### Anatoli Vaisser
 
