@@ -11,7 +11,7 @@
 #### Chess Openings for Dummies
 
 A very modern professionally typeset and well laid out book published under the DUMMIES books brand. The additional content
-provided by `Rich Tennant` with `The 5th Wave` cartoons was a great addition. Large spaced out book, 360+ pages, 2010 edition.
+provided by `Rich Tennant` with `The 5th Wave` cartoons was a great addition. Large spaced out book, 6 book parts, 25 chapters, 360+ pages, 2010 edition.
 
 ### James Eade and Al Lawrence
 
