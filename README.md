@@ -14,6 +14,10 @@
 
 - Chess Player's Bible
 
+### Andrew Soltis and Ken Smith
+
+- Pillsbury The Extraordinary
+
 ### Anatoli Vaisser
 
 - Beating the King's Indian and Benoni
