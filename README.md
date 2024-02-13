@@ -6,6 +6,11 @@
 
 #### Chess From Beginner to Winner! Master the Game from the Opening Move to Checkmate
 
+Kevin Bordi is the creator of Blitzstream and Samy Robin is a FIDE Master.
+
+- https://www.twitch.tv/blitzstream
+- https://www.youtube.com/c/blitzstream
+
 ### James Eade
 
 #### Chess Openings for Dummies
