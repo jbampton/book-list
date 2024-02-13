@@ -32,6 +32,8 @@ provided by `Rich Tennant` with `The 5th Wave` cartoons was a great bonus. Large
 
 #### Pillsbury The Extraordinary
 
+A story about `Harry Nelson Pillsbury` one of the lessor known American Chess Masters who was born in 1872. The book is divided into two parts with the first part the biography written by Soltis and the second part the Games written by Smith. This classic Soltis and Smith mashup works well with a lot of games having diagrams every three moves. Published by Chess Digest, Inc. Small book, 144 pages, 1990 edition.
+
 ### Anatoli Vaisser
 
 #### Beating the King's Indian and Benoni
