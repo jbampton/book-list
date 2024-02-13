@@ -22,7 +22,7 @@ provided by `Rich Tennant` with `The 5th Wave` cartoons was a great bonus. Large
 
 ### John Nunn
 
-#### Learn Chess
+#### Learn Chess - A Gold-Medal Winner Explains How to Play and Win at Chess
 
 ### Wesley So, Michael Adams, Graham Burgess, John Nunn, John Emms
 
