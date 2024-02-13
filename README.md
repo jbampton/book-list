@@ -46,6 +46,7 @@
 
 ### Terry Brooks
 
+- The Elfstones of Shannara
 - The Druid of Shannara - Volume Two of the Heritage of Shannara
 
 ### Sara Douglass
