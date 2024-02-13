@@ -24,6 +24,10 @@ provided by `Rich Tennant` with `The 5th Wave` cartoons was a great bonus. Large
 
 #### Learn Chess - A Gold-Medal Winner Explains How to Play and Win at Chess
 
+British PhD Mathematician and Chess Grandmaster John Nunn has created a wonderfully well written small book with contents that list an introduction and ten chapters in its 192 pages. A Gambit Publications book updated in 2010 and printed in 2021.
+
+- http://www.gambitbooks.com/
+
 ### Wesley So, Michael Adams, Graham Burgess, John Nunn, John Emms
 
 #### The Mammoth Book of the World's Greatest Chess Games, 2021 edition
