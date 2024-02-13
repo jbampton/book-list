@@ -40,7 +40,9 @@ A story about `Harry Nelson Pillsbury` one of the lessor known American Chess Ma
 
 ### Anatoli Vaisser
 
-#### Beating the King's Indian and Benoni
+#### Beating the King's Indian and Benoni - Shock your opponents with the Four Pawns Attack
+
+Most chess enthusiasts would find that this book in The American Batsford Chess Library has way too many moves listed and not many diagrams in between. This International Chess Enterprises (ICE) book published in 1997 is typical of the hard work approach of the author Grandmaster Anatoly Vaisser who is known to be one of the best senior players.
 
 ## Go
 
