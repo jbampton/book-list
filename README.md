@@ -51,6 +51,7 @@
 ### David Gemmell
 
 - Bloodstone
+- Dark Moon
 
 ### Robert Jordan and Brandon Sanderson
 
