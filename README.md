@@ -46,7 +46,7 @@
 
 ### Terry Brooks
 
-- The Elfstones of Shannara
+- The Elfstones of Shannara - Book Two of The Original Shannara Trilogy
 - The Druid of Shannara - Volume Two of the Heritage of Shannara
 
 ### Sara Douglass
