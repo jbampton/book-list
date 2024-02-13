@@ -14,6 +14,10 @@
 
 - Chess Player's Bible
 
+### John Nunn
+
+- Learn Chess
+
 ### Wesley So, Michael Adams, Graham Burgess, John Nunn, John Emms
 
 - The Mammoth Book of the World's Greatest Chess Games, 2021 edition
