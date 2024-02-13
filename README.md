@@ -53,10 +53,13 @@
 - Bloodstone
 - Dark Moon
 
-### Robert Jordan and Brandon Sanderson
+### Robert Jordan
 
 - The Great Hunt - Book 2 of The Wheel of Time
 - The Dragon Reborn - Book 3 of The Wheel of Time
+
+### Robert Jordan and Brandon Sanderson
+
 - A Memory of Light - Book 14 of The Wheel of Time
 
 ### Katherine Kerr
