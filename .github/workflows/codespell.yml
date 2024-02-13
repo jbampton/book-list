@@ -25,3 +25,12 @@ jobs:
 
       - name: Run Codespell
         run: codespell . --ignore-words-list john
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          git add .
+          git commit -m "Fix spelling errors using codespell (GitHub Action)"
+          git push
