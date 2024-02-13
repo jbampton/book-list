@@ -10,7 +10,7 @@
 
 #### Chess Openings for Dummies
 
-A very modern professionally typeset and well laid out book published under the DUMMIES books brand. The additional content
+A very modern professionally typeset and well laid out book published under `For Dummies` a branded imprint of Wiley. The additional content
 provided by `Rich Tennant` with `The 5th Wave` cartoons was a great bonus. Large spaced out book, 6 book parts, 25 chapters, 360+ pages, 2010 edition.
 
 - https://www.dummies.com/
