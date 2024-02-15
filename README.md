@@ -25,7 +25,9 @@ provided by `Rich Tennant` with `The 5th Wave` cartoons was a great bonus. Large
 
 #### Chess Player's Bible - Illustrated strategies for staying ahead of the game
 
-A quality gift for any chess player this ring bound hard cover book uses color well. 288 pages, 2014, Second Edition, A QUARTO Book.
+A quality gift for any chess player this ring bound medium size hard cover book uses color well.
+It features large three dimensional colored diagrams and its spaced out layout makes it easy to read.
+Totalling 288 pages, 2014, Second Edition, A QUARTO Book.
 
 - https://www.quartoknows.com
 
