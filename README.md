@@ -6,7 +6,7 @@
 
 #### Chess From Beginner to Winner! Master the Game from the Opening Move to Checkmate
 
-Originally published in French in 2021 this orange colored book with slick magazine gloss-like colored paper is extremely well laid out using a two column format for most pages. A modern medium size book targetting beginners but also great for chess players of all levels. Kevin Bordi is the creator of Blitzstream and Samy Robin is a FIDE Master. 2023 edition with 192 pages.
+Originally published in French in 2021 this orange colored book with slick magazine gloss-like colored paper is extremely well laid out using a two column format for most pages. A modern medium size book targeting beginners but also great for chess players of all levels. Kevin Bordi is the creator of Blitzstream and Samy Robin is a FIDE Master. 2023 edition with 192 pages.
 
 - https://www.twitch.tv/blitzstream
 - https://www.youtube.com/c/blitzstream
