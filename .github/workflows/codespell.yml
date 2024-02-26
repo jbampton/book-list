@@ -24,4 +24,4 @@ jobs:
           pip install codespell
 
       - name: Run Codespell
-        run: codespell . --ignore-words-list john
+        run: codespell . --ignore-words-list donn,john
