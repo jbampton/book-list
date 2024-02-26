@@ -31,6 +31,15 @@ Totalling 288 pages, 2014, Second Edition, A QUARTO Book.
 
 - https://www.quartoknows.com
 
+### Bobby Fischer, Stuart Margulies, Donn Mosenfelder
+
+#### Bobby Fischer Teaches Chess
+
+Bantam Books - Sports & Hobbies. Bantam edition published in May 1972. 334 pages.
+
+- https://en.wikipedia.org/wiki/Bantam_Books
+- https://www.randomhousebooks.com/imprint/bantam-books/
+
 ### Richard James
 
 #### Chess For Kids - How To Play And Win
