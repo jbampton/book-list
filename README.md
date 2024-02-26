@@ -31,6 +31,13 @@ Totalling 288 pages, 2014, Second Edition, A QUARTO Book.
 
 - https://www.quartoknows.com
 
+### Richard James
+
+#### Chess For Kids - How To Play And Win
+
+Seen on the cover: "A fun way to learn chess". This full color illustrated book with thicker glossy pages is a great read for all ages.
+A story about two kids enlisted to save the planet. Reprinted in 2015 by Robinson, 186 pages.
+
 ### John Nunn
 
 #### Learn Chess - A Gold-Medal Winner Explains How to Play and Win at Chess
