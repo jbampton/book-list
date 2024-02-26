@@ -36,7 +36,11 @@ Totalling 288 pages, 2014, Second Edition, A QUARTO Book.
 #### Chess For Kids - How To Play And Win
 
 Seen on the cover: "A fun way to learn chess". This full color illustrated book with thicker glossy pages is a great read for all ages.
-A story about two kids enlisted to save the planet. Reprinted in 2015 by Robinson, 186 pages.
+A story about two kids enlisted to save the planet. 2010 edition reprinted in 2015 by Robinson, 186 pages of sheer fun. Robison is an
+imprint of Little, Brown Book Group a Hachette UK company. 
+
+- https://www.littlebrown.co.uk/
+- https://www.hachette.co.uk/
 
 ### John Nunn
 
