@@ -51,6 +51,14 @@ imprint of Little, Brown Book Group a Hachette UK company.
 - https://www.littlebrown.co.uk/
 - https://www.hachette.co.uk/
 
+### David Levens
+
+#### Daily Mail Basic Chess
+
+Seen on the cover: "A comprehensive and jargon-free guide to the rules and tactics." A small book with a two column format having a reasonable number
+of diagrams. Comprising 240 pages, first published in 2005 and this edition in 2021. On review we found the diagrams in this latest edition to
+be slightly harder to read compared to diagrams in some other books. The book is all black, gray and white no other colors. A highlight is the sixty plus questions in the "Test your chess IQ" section.
+
 ### John Nunn
 
 #### Learn Chess - A Gold-Medal Winner Explains How to Play and Win at Chess
