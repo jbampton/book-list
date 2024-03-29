@@ -1,5 +1,11 @@
 # Book List
 
+- [Chess](#chess)
+- [Crosswords](#crosswords)
+- [Go](#go)
+- [Mathematics](#mathematics)
+- [Fantasy and Science Fiction](#fantasy-and-science-fiction)
+
 ## Chess
 
 ### Kevin Bordi and Samy Robin
