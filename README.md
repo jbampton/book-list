@@ -88,3 +88,52 @@ Most chess enthusiasts would find that this book in The American Batsford Chess 
 ### Kaoru Iwamoto
 
 #### GO for Beginners
+
+## Mathematics
+
+### Helen L. MacGillivray
+
+- Data Analysis - Introductory Methods in Context, 2nd Edition
+
+### K.A. Stroud with Additions by Dexter J. Booth
+
+- Engineering Mathematics, Fifth Edition
+
+## Fantasy and Science Fiction
+
+### Greg Bear
+
+- Slant
+
+### Terry Brooks
+
+- The Druid of Shannara - Volume Two of the Heritage of Shannara
+
+### Sara Douglass
+
+- Battleaxe - Book one of The Axis Trilogy
+
+### David Gemmell
+
+- Bloodstone
+
+### Robert Jordan and Brandon Sanderson
+
+- The Great Hunt - Book 2 of The Wheel of Time
+- The Dragon Reborn - Book 3 of The Wheel of Time
+- A Memory of Light - Book 14 of The Wheel of Time
+
+### Katherine Kerr
+
+- Daggerspell - Book One Deverry
+- A Time of Justice - Book Four of The Westlands
+- The Gold Falcon - Book Four of The Dragon Mage
+- Polar City Blues
+
+### George R.R. Martin
+
+- A Storm of Swords 2: Blood and Gold
+
+### Tad Williams
+
+- Sea of Silver Light - Book Four Otherland
