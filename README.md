@@ -83,6 +83,12 @@ A story about `Harry Nelson Pillsbury` one of the lessor known American Chess Ma
 
 Most chess enthusiasts would find that this book in The American Batsford Chess Library has way too many moves listed and not many diagrams in between. This International Chess Enterprises (ICE) book published in 1997 is typical of the hard work approach of the author Grandmaster Anatoly Vaisser who is known to be one of the best senior players.
 
+## Crosswords
+
+### Mirror
+
+#### Quick Crosswords 1 - 150 Fast and Furious Puzzles!
+
 ## Go
 
 ### Kaoru Iwamoto
